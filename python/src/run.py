@@ -1,3 +1,4 @@
+
 """A youtube terminal simulator."""
 from .video_player import VideoPlayer
 from .command_parser import CommandException

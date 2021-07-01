@@ -1,5 +1,4 @@
 #include "video.h"
-
 #include <iostream>
 #include <utility>
 #include <vector>
